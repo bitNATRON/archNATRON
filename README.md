@@ -1,4 +1,4 @@
-Free and open source software and GNU/Linux enthusiat.
+Free and open source software (FOSS) and GNU/Linux enthusiat.
 I am interested in robotics, automation, system design, operational systems, communication, line control and electrical controls.
 
 C++ / Python / LADDER
