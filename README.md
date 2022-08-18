@@ -1,5 +1,5 @@
 Dev, free and open source software user and GNU/Linux enthusiat.
-Robotics, schematic drawings, system design, line control and electrical controls.
+I am interested in robotics, automation, system design, communication, line control and electrical controls.
 
 C++ / Python / LADDER
 
